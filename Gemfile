@@ -9,6 +9,7 @@ gem 'twitter-bootstrap-rails'
 gem 'font-awesome-rails'
 gem 'devise-bootstrap-views'
 gem 'stock_quote'
+gem 'jquery-rails'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.1.4'

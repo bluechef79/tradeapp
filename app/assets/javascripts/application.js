@@ -14,8 +14,8 @@
 //= require jquery
 //= require jquery_ujs
 //= require twitter/bootstrap
-//= require rails-ujs
-// require turbolinks
+// require rails-ujs
+
 //= require_tree .
 
 var hide_spinner = function() {

@@ -1,24 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Basic requirements of the app to be met:
+Authentication system
+Users can track stocks
+Profile page displays current prices
+Users can search using a search bar
+Users can add a stock to portfolio
+Users can look for friends by name, first/last/email
+Users can view friend's portfolios
+Must be mobile friendly/responsive
